@@ -1,3 +1,3 @@
-# Hi my name is Jomarie Luis Oteyza
+# Hi, I'm Jom Luis Oteyza
 
-I'm aspiring to be a Frontend Developer, I'm currently learning HTML, CSS and Javascript.
+I'm a front-end developer who's passionate about making a website.
