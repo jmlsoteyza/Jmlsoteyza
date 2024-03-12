@@ -7,7 +7,7 @@
 *   🌍  I'm based in Dubai, United Arab Emirates
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://jmlsoteyza.vercel.app/'>Portfolio</a>
 *   🧠  Currently learning Next.js and TypeScript
-*   🤝  I'm open to an internship and to collaborating on interesting projects.
+*   🤝  I'm open to collaborate on interesting projects.
 
 ### Links
 <a href="https://jmlsoteyza.vercel.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a> &nbsp;
