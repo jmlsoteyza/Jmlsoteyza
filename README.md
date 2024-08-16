@@ -36,4 +36,4 @@
 <b>Lofi Studio</b> - Lofi Studio Website | HTML / Css / JavaScript
 * Built with a comprehensive website featuring multiple applications, including a Todo list, Pomodoro Timer, Music Player, and integration with the YouTube API.
 * Designed with Figma
-* Live site: <a href="https://studentstudysession.vercel.app/">Lofi Studio</a> and Github repo: <a href="https://github.com/Jmlsoteyza/Lofi-Student-Session" />Githubb&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
+* Live site: <a href="https://studentstudysession.vercel.app/">Lofi Studio</a> and Github repo: <a href="https://github.com/Jmlsoteyza/Lofi-Student-Session" />Github&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
